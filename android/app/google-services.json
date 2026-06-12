@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "507419578670",
+    "project_id": "campusride-6a3c3",
+    "storage_bucket": "campusride-6a3c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507419578670:android:6314a4320b08965dd8eabf",
+        "android_client_info": {
+          "package_name": "com.example.campus_ride"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzJjDi6DM80U_yWn46yxvFuEFBtUrw8ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
